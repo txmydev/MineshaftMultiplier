@@ -1,0 +1,5 @@
+name: SkullMineshaftMultiplier
+main: net.skulluhc.mineshaftmultiplier.MineshaftMultiplierPlugin
+version: 1.0
+author: txmy
+load: STARTUP
